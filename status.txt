@@ -1,0 +1,1 @@
+Doesn't work/patched, they've switched to Luauth, a very secure whitelist service.
